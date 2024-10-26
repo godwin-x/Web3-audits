@@ -40,6 +40,11 @@ As I continue my journey in Web3 security, I plan to:
 * Develop and share custom scripts to streamline vulnerability testing.
 * Engage in community discussions, conferences, and audits to expand my knowledge base.
 
-# Connect with Me
+## Connect with Me
+
 I’m always open to discussions and collaboration. If you have any questions or suggestions, please feel free to reach out!
+
+- 📧 [Email](mailto:nzebunachigodwin@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/nze-godwin-47336b226/)
+- 🐦 [Twitter](https://x.com/godwin1_X)
 
